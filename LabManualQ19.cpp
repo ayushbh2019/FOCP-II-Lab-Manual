@@ -5,10 +5,10 @@ int main()
 {
    int a,b,i,j;
 
-   cout<<"Enter starting number : ";
+   cout<<"enter start number";
    cin>>a;
 
-   cout<<"Enter ending number : ";
+   cout<<"enter end number";
    cin>>b;
 
    for(i=a; i<=b; i++)
