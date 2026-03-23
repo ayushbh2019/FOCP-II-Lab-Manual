@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #include <iostream>
 using namespace std;
 class ElectricityBill
@@ -114,5 +113,4 @@ int main()
     e2.displayBill();
 
     return 0;
->>>>>>> c42ec45e17a73f20e7928ba8e30bfbc54e406d1c
 }
