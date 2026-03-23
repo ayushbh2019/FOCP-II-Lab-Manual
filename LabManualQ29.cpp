@@ -7,7 +7,7 @@ int main()
 
    for(i=0; i<30; i++)
    {
-      cout<<"temp during day"<<i+1;
+      cout<<"temperature of the day"<<i+1;
       cin>>temp[i];
    }
 
